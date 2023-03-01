@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/recipelist-react/static/css/main.7acaea2f.css",
-    "main.js": "/recipelist-react/static/js/main.07d3183d.js",
+    "main.js": "/recipelist-react/static/js/main.1cd80495.js",
     "index.html": "/recipelist-react/index.html",
     "main.7acaea2f.css.map": "/recipelist-react/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/recipelist-react/static/js/main.07d3183d.js.map"
+    "main.1cd80495.js.map": "/recipelist-react/static/js/main.1cd80495.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.1cd80495.js"
   ]
 }
